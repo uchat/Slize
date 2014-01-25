@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Slize</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="mode_name_20m">20 #</string>
+    <string name="mode_name_60s">60 s.</string>
+    <string name="mode_name_120s">120 s.</string>
+        
+    <!-- amazon leaderboard string -->
+    <string name="amazon_lb_20m">globla_20_move</string>
+    <string name="amazon_lb_60s">globla_60_sec</string>
+    <string name="amazon_lb_120s">globla_120_sec</string>
+    
+    
+</resources>
